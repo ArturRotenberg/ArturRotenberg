@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Artur Rotenberg
 
-Founder of **NinjaWeb5** — programmable web infrastructure that lets you control your website at the edge.
+Founder, Product Owner of **NinjaWeb5** — programmable web infrastructure that lets you control your website at the edge.
 
 ---
 
